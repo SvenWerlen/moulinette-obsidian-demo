@@ -9,6 +9,7 @@ This page showcases an example of a note, demonstrating the following features:
 * **Incorporates an image** from another pack, which is automatically downloaded simultaneously with the note.
 * **Specifies metadata** that is extracted, displayed as tags, and enables content filtering within the same category.
 * Provides a **searchable and complementary description** that is displayed alongside the content.
+* **Includes a link to a page** within the same pack. The page will be downloaded when you attempt to visit it.
 ---
 
 ![[moulinette/moulinette/baileywiki-maps/maps/town/c2124-tavern-inn.webp]]
