@@ -1,7 +1,7 @@
 ---
 type: building
 subtype: tavern
-description: A small tavern for 3 hosts
+description: A small inn with 3 rooms, a bar, and a cellar.
 ---
 
 
