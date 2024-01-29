@@ -17,4 +17,4 @@ This page showcases an example of a note, demonstrating the following features:
 
 An example of a text describing the tavern, the NPC your players might encounter, the beverages, and other consumable meals along with their prices, etc.
 
-See [[moulinette-obsidian-demo/buildings/Tavern Roof)|Tavern Roof)]] for the exterior view.
+See [[moulinette-obsidian-demo/buildings/Tavern Roof|Tavern Roof]] for the exterior view.
