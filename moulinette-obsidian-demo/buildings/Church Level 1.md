@@ -3,13 +3,14 @@ type: building
 subtype: church
 description: A big stone church (several floors)
 ---
-### Moulinette context
----
+#### Moulinette context
+
 This page showcases an example of a note, demonstrating the following features:
 * **Incorporates an image** from another pack, which is automatically downloaded simultaneously with the note.
 * **Specifies metadata** that is extracted, displayed as tags, and enables content filtering within the same category.
 * Provides a **searchable and complementary description** that is displayed alongside the content.
----
+
+## Churche Level 1
 
 ![[moulinette/moulinette/baileywiki-maps/maps/church/church-level01.webp]]
 
